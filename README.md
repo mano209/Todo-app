@@ -6,7 +6,14 @@
 
 ###
 
-<h2 align="left">I consider my self a responsible and orderly person.I am looking forward for my first work experience.<br>Innovative and detail-oriented Fresher Front End Developer with a passion for creating responsive and userfriendly websites.</h2>
+<h2 align="left">
+1.Task Lists: Create multiple lists to categorize your tasks based on priority, project, or any other criteria.
+
+2.Task Creation: Easily add new tasks with just a few taps, including deadlines, descriptions, and priority levels.
+
+3.Priority Levels: Assign priority levels to tasks to ensure you focus on what matters most.
+
+4.Due Dates and Reminders: Set due dates and receive timely reminders to stay on track and meet deadlines.</h2>
 
 ###
 
