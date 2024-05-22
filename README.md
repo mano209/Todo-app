@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">I code with Html, Css, Bootstrap, Javascript, React.js</h2>
+<h3 align="left">I code with Html, Css, Bootstrap, Javascript, React.js</h3>
 
 ###
 
