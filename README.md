@@ -7,8 +7,8 @@
 ###
 
 <h4 align="left">
-1.Task Lists: Create multiple lists to categorize your tasks based on priority, project, or any other criteria.
-2.Task Creation: Easily add new tasks with just a few taps, including deadlines, descriptions, and priority levels.
+1.Task Lists: Create multiple lists to categorize your tasks based on priority, project, or any other criteria.<br>
+2.Task Creation: Easily add new tasks with just a few taps, including deadlines, descriptions, and priority levels.<br>
 3.Priority Levels: Assign priority levels to tasks to ensure you focus on what matters most.
 </h4>
 
