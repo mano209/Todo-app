@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating Projects and Finding bugs <br>📚 I'm currently learning Frontend Development <br>🎯 Goals: Create a projects with responsible design <br>🎲 Fun fact: ..</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with html, css, javascript, react, hooks</h2>
 
 ###
 
